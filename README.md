@@ -1,6 +1,6 @@
 # check-object-equal
 
-[![NPM Version][npm-image]][npm-url]
+[![NPM Version]][npm-url]
 
 # Example
 
