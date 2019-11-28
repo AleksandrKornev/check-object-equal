@@ -44,3 +44,9 @@ With [npm](http://npmjs.org) do:
 ```
 npm test
 ```
+
+## License
+
+[MIT](LICENSE)
+
+[npm-url]: https://npmjs.org/package/check-object-equal
