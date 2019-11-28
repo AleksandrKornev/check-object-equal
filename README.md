@@ -1,7 +1,5 @@
 # check-object-equal
 
-[![NPM Version]][npm-url]
-
 # Example
 
 ``` js
