@@ -1,0 +1,24 @@
+{
+  "name": "check-object-equal",
+  "version": "1.0.1",
+  "description": "Check equality of objects and other types",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/AleksandrKornev/check-object-equal.git"
+  },
+  "keywords": [
+    "equality",
+    "equal",
+    "compare",
+    "object"
+  ],
+  "author": {
+    "name": "Aleksandr Kornev",
+    "email": "gonkamail.ru@mail.ru"
+  },
+  "license": "MIT"
+}
